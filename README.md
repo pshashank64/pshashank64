@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pshashank64
+- 👀 Currently I’m interested in web dev
+- 🌱 I’m currently learning JS
+- 📫 Contact: pshashank64@gmail.com
